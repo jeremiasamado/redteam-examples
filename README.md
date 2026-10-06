@@ -78,10 +78,12 @@ thinking. Every sample is authored for this repository, runs locally and uses
 synthetic data. The value is the chain of reasoning: **hypothesis → evidence →
 conclusion**.
 
-<p>
-  <img src="./assets/badboy17jpg.jpg" width="28" height="28" alt="" valign="middle">
-  <strong>BadBoy17</strong>
-</p>
+## Project identity
+
+| Author | NE0SYNC |
+|---|---|
+| Technical voice | <img src="./assets/badboy17jpg.jpg" width="24" height="24" alt=""> **BadBoy17** |
+| Focus | offensive security · reverse engineering |
 
 ## License
 

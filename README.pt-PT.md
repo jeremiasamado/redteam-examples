@@ -83,10 +83,12 @@ de reverse engineering. Cada sample é criado para este projecto, corre
 localmente e usa dados sintéticos. O valor está na cadeia de raciocínio:
 **hipótese → evidência → conclusão**.
 
-<p>
-  <img src="./assets/badboy17jpg.jpg" width="28" height="28" alt="" valign="middle">
-  <strong>BadBoy17</strong>
-</p>
+## Identidade do projecto
+
+| Autor | NE0SYNC |
+|---|---|
+| Voz técnica | <img src="./assets/badboy17jpg.jpg" width="24" height="24" alt=""> **BadBoy17** |
+| Foco | offensive security · reverse engineering |
 
 ## Licença
 
