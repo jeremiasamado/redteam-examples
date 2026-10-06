@@ -8,6 +8,9 @@ import struct
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from terminal_theme import trace_sequence
+
 
 def printable_strings(data: bytes) -> list[str]:
     return sorted(
@@ -29,6 +32,7 @@ def pe_summary(data: bytes) -> str:
 
 
 def main() -> int:
+    trace_sequence()
     if len(sys.argv) != 2:
         print(f"usage: {Path(sys.argv[0]).name} <sample>")
         return 2
