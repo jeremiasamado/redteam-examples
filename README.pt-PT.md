@@ -83,22 +83,9 @@ de reverse engineering. Cada sample é criado para este projecto, corre
 localmente e usa dados sintéticos. O valor está na cadeia de raciocínio:
 **hipótese → evidência → conclusão**.
 
-## Identidade do projecto
-
-```text
-Autor           NE0SYNC
-Voz técnica     BadBoy17
-Foco            offensive security · reverse engineering
-```
-
-`BadBoy17` é a identidade técnica usada nos labs e nos write-ups. A autoria no
-GitHub mantém-se ligada ao dono verificado do repositório; não é usada nenhuma
-conta de contributor sintética.
-
 <p>
-  <img src="./assets/badboy17-avatar.svg" width="28" height="28" alt="Avatar BadBoy17" valign="middle">
+  <img src="./assets/badboy17jpg.jpg" width="28" height="28" alt="" valign="middle">
   <strong>BadBoy17</strong>
-  <sub>assinatura técnica · investigação de reverse engineering</sub>
 </p>
 
 ## Licença

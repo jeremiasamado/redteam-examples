@@ -78,22 +78,9 @@ thinking. Every sample is authored for this repository, runs locally and uses
 synthetic data. The value is the chain of reasoning: **hypothesis → evidence →
 conclusion**.
 
-## Project identity
-
-```text
-Author          NE0SYNC
-Technical voice BadBoy17
-Focus           offensive security · reverse engineering
-```
-
-`BadBoy17` is the technical identity used throughout the labs and write-ups.
-GitHub authorship remains attached to the verified repository owner; no
-synthetic contributor account is used.
-
 <p>
-  <img src="./assets/badboy17-avatar.svg" width="28" height="28" alt="BadBoy17 avatar" valign="middle">
+  <img src="./assets/badboy17jpg.jpg" width="28" height="28" alt="" valign="middle">
   <strong>BadBoy17</strong>
-  <sub>technical signature · reverse engineering research</sub>
 </p>
 
 ## License
