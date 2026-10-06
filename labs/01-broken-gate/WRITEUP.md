@@ -1,5 +1,7 @@
 # The Broken Gate — operator notebook
 
+[PT-PT](./WRITEUP.pt-PT.md)
+
 ## Hypothesis
 
 The sample appears to implement a local feature gate. The initial indicators

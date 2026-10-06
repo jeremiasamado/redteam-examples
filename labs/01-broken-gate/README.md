@@ -1,5 +1,7 @@
 # Lab 01 — The Broken Gate
 
+[PT-PT](./README.pt-PT.md)
+
 ## Briefing
 
 You receive `broken-gate.exe`, a small Windows PE sample produced from the

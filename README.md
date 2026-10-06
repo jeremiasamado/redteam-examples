@@ -1,5 +1,7 @@
 <div align="center">
 
+[PT-PT](./README.pt-PT.md) | **EN**
+
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=36&duration=3200&pause=1200&color=8A00C4&background=00000000&center=true&vCenter=true&width=850&height=80&lines=THE+BROKEN+GATE;PE+ANALYSIS+LAB;TRACE+THE+DECISION;FOLLOW+THE+CONTROL+FLOW;PROVE+THE+WEAKNESS" alt="The Broken Gate — PE analysis lab">
 
 <br>

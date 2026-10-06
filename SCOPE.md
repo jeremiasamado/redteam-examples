@@ -1,5 +1,7 @@
 # Scope and safety
 
+[PT-PT](./SCOPE.pt-PT.md)
+
 This repository contains self-authored samples designed for local analysis.
 
 - Use the material only on systems and software you own or are explicitly
