@@ -83,6 +83,18 @@ de reverse engineering. Cada sample é criado para este projecto, corre
 localmente e usa dados sintéticos. O valor está na cadeia de raciocínio:
 **hipótese → evidência → conclusão**.
 
+## Identidade do projecto
+
+```text
+Autor           NE0SYNC
+Voz técnica     BadBoy17
+Foco            offensive security · reverse engineering
+```
+
+`BadBoy17` é a identidade técnica usada nos labs e nos write-ups. A autoria no
+GitHub mantém-se ligada ao dono verificado do repositório; não é usada nenhuma
+conta de contributor sintética.
+
 ## Licença
 
 O código é distribuído sob a licença MIT. Os samples e a documentação destinam-se

@@ -78,6 +78,18 @@ thinking. Every sample is authored for this repository, runs locally and uses
 synthetic data. The value is the chain of reasoning: **hypothesis → evidence →
 conclusion**.
 
+## Project identity
+
+```text
+Author          NE0SYNC
+Technical voice BadBoy17
+Focus           offensive security · reverse engineering
+```
+
+`BadBoy17` is the technical identity used throughout the labs and write-ups.
+GitHub authorship remains attached to the verified repository owner; no
+synthetic contributor account is used.
+
 ## License
 
 Code is released under the MIT License. Lab samples and documentation are for
