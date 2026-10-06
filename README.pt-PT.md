@@ -95,6 +95,12 @@ Foco            offensive security · reverse engineering
 GitHub mantém-se ligada ao dono verificado do repositório; não é usada nenhuma
 conta de contributor sintética.
 
+<p>
+  <img src="./assets/badboy17-avatar.svg" width="28" height="28" alt="Avatar BadBoy17" valign="middle">
+  <strong>BadBoy17</strong>
+  <sub>assinatura técnica · investigação de reverse engineering</sub>
+</p>
+
 ## Licença
 
 O código é distribuído sob a licença MIT. Os samples e a documentação destinam-se

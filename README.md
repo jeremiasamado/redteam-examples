@@ -90,6 +90,12 @@ Focus           offensive security · reverse engineering
 GitHub authorship remains attached to the verified repository owner; no
 synthetic contributor account is used.
 
+<p>
+  <img src="./assets/badboy17-avatar.svg" width="28" height="28" alt="BadBoy17 avatar" valign="middle">
+  <strong>BadBoy17</strong>
+  <sub>technical signature · reverse engineering research</sub>
+</p>
+
 ## License
 
 Code is released under the MIT License. Lab samples and documentation are for
